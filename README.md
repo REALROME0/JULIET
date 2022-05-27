@@ -23,4 +23,5 @@
 
 ### License
 This project is protected by the `GNU General Public License v3.0.`
-Do not edit copyright messages!
+Do not edit copyright messages.
+
