@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.ibb.co/TcDXQGv/Picsart-22-05-27-15-19-46-146.jpg" alt="Picsart-22-05-27-15-19-46-146" border="0"></a>
-  <img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a>
+  <img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Love.gif" width="48px"></a>
   <h1>🧚‍♂️💖 ROMEO AND JULIET 💖🧚‍♂️</h1>
 </div>
 
