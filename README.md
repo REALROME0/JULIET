@@ -11,6 +11,8 @@
 
 ### මගේ නම්බර් එක 👇🍃🌼
 
+### ```Connect With Me```
+
 </a>
   </p>
  <p align="center">
